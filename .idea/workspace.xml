@@ -1,120 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d37aa4-3eed-4c6e-90a0-92cdc2d209bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTeste.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/deafio06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula07a/desafio13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/desafio21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08a/import math.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/aula09b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09a/desafio27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/aula10b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10a/desafio35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula11a/aula11b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/aula12b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio42.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio43.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio44.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12a/desafio45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/aula13b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio46.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio48.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio49.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio50.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio51.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio52.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio53.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio54.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio55.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafio56.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula13a/desafioCHATGPT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/aula14b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio57.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio58.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio59.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio60.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio61.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio62.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio63.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio64.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14a/desafio65.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/aula15b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio66.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio67.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio68.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio69.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio70.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula15a/desafio71.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/aula16b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio72.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio73.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio74.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio75.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio76.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula16a/desafio77.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/aula17b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio78.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio79.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio80.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio81.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio82.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula17a/desafio83.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/aula18b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio84.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio85.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio86.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio87.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio88.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula18a/desafio89.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/aula19b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio90.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio91.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio92.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio93.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio94.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula19a/desafio95.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste python mundo 1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="41d37aa4-3eed-4c6e-90a0-92cdc2d209bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,24 +13,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3KNqZt2EIZBBjnUeRPWWsWju8Fx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kauap/PycharmProjects/CURSO-EM-VIDEO--PYTHON"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kauap/PycharmProjects/CURSO-EM-VIDEO--PYTHON&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -157,5 +47,16 @@
       <updated>1791408432388</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonTeste/aula07a/deafio06.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

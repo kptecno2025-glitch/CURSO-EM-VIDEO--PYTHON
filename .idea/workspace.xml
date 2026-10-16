@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41d37aa4-3eed-4c6e-90a0-92cdc2d209bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/aula20b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/desafio100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/desafio96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/desafio97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/desafio98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula20a/desafio99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETOS/meu_primeiro_robo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJETOS/movendo_mouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minhas tentativas (python)/aula19a/desafio95.py" beforeDir="false" afterPath="$PROJECT_DIR$/Minhas tentativas (python)/aula19a/desafio95.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +44,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula100.executor": "Run",
+    "Python.aula20b.executor": "Run",
     "Python.desafio95.executor": "Run",
+    "Python.desafio96.executor": "Run",
+    "Python.desafio97.executor": "Run",
+    "Python.desafio98.executor": "Run",
+    "Python.desafio99.executor": "Run",
     "Python.ex095.executor": "Run",
+    "Python.meu_primeiro_robo.executor": "Run",
+    "Python.movendo_mouse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",

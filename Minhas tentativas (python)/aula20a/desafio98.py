@@ -7,7 +7,7 @@ def contador(inicio, fim, passo):
         passo = abs(passo)
     if inicio < fim:
         print('-=' * 30)
-        print('Contagem de 1 até 10 de 1 em 1')
+        print(f'Contagem de {inicio} até {fim} de {passo} em {passo}')
         while cont <= fim:
             print(f'{cont} ', end='')
             cont+= passo
@@ -16,7 +16,7 @@ def contador(inicio, fim, passo):
         print()
         print('-=' * 30)
     elif inicio > fim:
-        print('Contagem de 10 até 0 de 2 em 2')
+        print(f'Contagem de {inicio} até {fim} de {passo} em {passo}')
         while cont >= fim:
             print(f'{cont} ',end='')
             cont -= passo
